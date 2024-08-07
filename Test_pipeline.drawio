@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-07T14:25:55.429Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="7ercaxqpbUcAuuouCK-m" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-07T14:27:33.970Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="QMpGPD73DNIsa4l5fCD0" version="24.7.1" type="github">
   <diagram name="Page-1" id="H4P7NE6pzufIGQPCW-qz">
     <mxGraphModel dx="1317" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="1">
       <root>
@@ -145,7 +145,7 @@
             <mxPoint x="284" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkLiBk1pGBz07GGvYYkv-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;With or without reference genome&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fkLiBk1pGBz07GGvYYkv-17" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Avec ou sans génome de référence&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126" y="549" width="256" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fkLiBk1pGBz07GGvYYkv-23" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;strokeColor=#24B064;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fkLiBk1pGBz07GGvYYkv-6">
@@ -254,17 +254,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkLiBk1pGBz07GGvYYkv-89" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Quality control&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fkLiBk1pGBz07GGvYYkv-89" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Contrôle qualité&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89" y="885" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkLiBk1pGBz07GGvYYkv-90" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Assembly&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fkLiBk1pGBz07GGvYYkv-90" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Assemblage&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="92" y="956" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkLiBk1pGBz07GGvYYkv-91" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Blast and phylogeny&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fkLiBk1pGBz07GGvYYkv-91" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Blast et phylogénie&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="883" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkLiBk1pGBz07GGvYYkv-92" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Antibioresistance&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="321" y="956" width="133" height="30" as="geometry" />
+        <mxCell id="fkLiBk1pGBz07GGvYYkv-92" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Antibiorésistance&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="956" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
